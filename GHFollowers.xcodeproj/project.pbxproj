@@ -14,6 +14,7 @@
 		83F2C3AB2867862F00F77304 /* SearchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F2C3AA2867862F00F77304 /* SearchVC.swift */; };
 		83F2C3AD2867865700F77304 /* FavoritesListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F2C3AC2867865700F77304 /* FavoritesListVC.swift */; };
 		83F2C3AF2867992800F77304 /* GFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F2C3AE2867992800F77304 /* GFButton.swift */; };
+		83F2C3B12867F5D800F77304 /* GFTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83F2C3B02867F5D800F77304 /* GFTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		83F2C3AA2867862F00F77304 /* SearchVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchVC.swift; sourceTree = "<group>"; };
 		83F2C3AC2867865700F77304 /* FavoritesListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoritesListVC.swift; sourceTree = "<group>"; };
 		83F2C3AE2867992800F77304 /* GFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFButton.swift; sourceTree = "<group>"; };
+		83F2C3B02867F5D800F77304 /* GFTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				83F2C3AA2867862F00F77304 /* SearchVC.swift */,
 				83F2C3AC2867865700F77304 /* FavoritesListVC.swift */,
 				83F2C3AE2867992800F77304 /* GFButton.swift */,
+				83F2C3B02867F5D800F77304 /* GFTextField.swift */,
 			);
 			path = GHFollowers;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83F2C3B12867F5D800F77304 /* GFTextField.swift in Sources */,
 				83F2C3AD2867865700F77304 /* FavoritesListVC.swift in Sources */,
 				83F2C3AF2867992800F77304 /* GFButton.swift in Sources */,
 				83F2C3AB2867862F00F77304 /* SearchVC.swift in Sources */,
